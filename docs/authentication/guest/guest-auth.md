@@ -52,7 +52,7 @@ This method allows you to create a guest instance of an account that can be used
 	"user": {
 		"user": {
 			"username": "Guest-000000000000000-0000-0000-0000-000000000000",
-			"id": 000000,
+			"id": 000001,
 			"first_name": "",
 			"account": null,
 			"is_staff": false
