@@ -27,9 +27,10 @@ This method allows you to create a guest instance of an account that can be used
 {
 	"success": true,
 	"token": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-	"uuid": "{Version 4 UUID}" // Same UUID from the request
+	"uuid": "{Version 4 UUID}"
 }
 ```
+###### The UUID is the same one from the request's payload.
 
 # Step #2: Create Guest Account
 
