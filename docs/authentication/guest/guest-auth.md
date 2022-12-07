@@ -63,4 +63,8 @@ This method allows you to create a guest instance of an account that can be used
 }
 ```
 
+# Conclusion
+
+Congrats! You now have a guest account that can access some of the site's core features. In all reality though, guest accounts suck. Just use [account authentication](../account/account-auth.md) instead!
+
 
